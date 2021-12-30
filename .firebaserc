@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fir-test-deploy-preview"
-  }
+    "default": "fir-test-deploy-preview",
+    "dev": "fir-test-dpreview-dev"
+  },
+  "targets": {}
 }
